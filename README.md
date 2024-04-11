@@ -7,7 +7,7 @@
 - ⚡ Skills:
   . MS SQL SERVER
   . POWER BI
-  . MS-EXCEL
+  . MS-EXCEL 
 
 <!---
 mshivkumar1905/mshivkumar1905 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
