@@ -5,11 +5,11 @@
 - 📫 How to reach me:Reach me at mshivkumar1905@gmail.com.
 - 😄 Pronouns: ...
 - ⚡ Skills:
-  . MS SQL SERVER
+ . . MS SQL SERVER
    
-  . POWER BI
+.  . POWER BI
   
-  . MS-EXCEL 
+.  . MS-EXCEL 
 
 <!---
 mshivkumar1905/mshivkumar1905 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
