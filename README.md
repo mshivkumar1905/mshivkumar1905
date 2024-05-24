@@ -6,7 +6,9 @@
 - 😄 Pronouns: ...
 - ⚡ Skills:
   . MS SQL SERVER
+   
   . POWER BI
+  
   . MS-EXCEL 
 
 <!---
